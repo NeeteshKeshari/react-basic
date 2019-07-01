@@ -1,5 +1,5 @@
 Basic React page
-(https://raw.githubusercontent.com/Neetesh971645/learn-webpack/master/screenshot.png)
+(https://raw.githubusercontent.com/NeeteshKeshari/react-basic/master/screenshot.png)
 
 ## Available Scripts
 
