@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Basic React page
+(https://raw.githubusercontent.com/Neetesh971645/learn-webpack/master/screenshot.png)
 
 ## Available Scripts
 
