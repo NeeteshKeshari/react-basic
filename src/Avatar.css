@@ -1,0 +1,12 @@
+@import url ('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+body {
+  font-family: 'Indie Flower', cursive;
+}
+.avatar-style {
+  display: inline-block;
+  border: 1px solid #888;
+  padding: 10px;
+}
+.avatar-style img {
+  width: 100%;
+}

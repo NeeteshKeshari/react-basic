@@ -1,0 +1,7 @@
+.inner-page {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  vertical-align: middle;
+  height: 200px;
+}
